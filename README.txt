@@ -1,8 +1,5 @@
 # Project One: Parking Finder
 
-* Author: Alemu, Teddy
-* Class: CPSC121 Section 001
-* Semester: Spring 2022
 
 ## Overview
 Parking Finder is a program that find closest parking spot to my car poition. Basiclly used the
